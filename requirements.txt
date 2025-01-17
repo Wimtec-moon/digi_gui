@@ -1,6 +1,6 @@
-streamlit==1.23.1
-plotly==5.15.0
-pandas==1.5.3
-python-docx==0.8.11
-matplotlib==3.7.1
-numpy==1.24.2
+streamlit
+plotly
+pandas
+python-docx
+matplotlib
+numpy
